@@ -1,11 +1,13 @@
 # Tezos-BruteForce-Tester
-Selenium Python Script to Bruteforce - Validate Passwords Email Keys with Tezos Websites Tools
+Selenium Python Script to Automate/Bruteforce - Test and Validate Potential Passwords/Emails to assist in finding a valid TZ1 address.
 
 Requirements
 Selenium Webdriver
 Firefox
 Python3
 I used archlinux so can't help with windows users.
+
+No Rights Reserved.
 
 Purpose: I built these tools to brute force a wallet. We were unsure of both the password and the email. So we had to try create a list
 of possible passwords and email combinations and then test several hundred. This is an arduous process without a script. 
