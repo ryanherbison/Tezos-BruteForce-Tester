@@ -10,7 +10,7 @@ I used archlinux so can't help with windows users.
 No Rights Reserved.
 
 Purpose: I built these tools to brute force a wallet. We were unsure of both the password and the email. So we had to try create a list
-of possible passwords and email combinations and then test several hundred. This is an arduous process without a script. 
+of possible passwords and email combinations and then test several hundred. This is an arduous process without a script.  Hopefully, this is useful to someone.
 
 Tools
 pwcheck.py
