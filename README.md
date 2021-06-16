@@ -4,9 +4,9 @@ Selenium Python Script to Automate/Bruteforce - Test and Validate Potential Pass
 Note this is for recovering coins during the initial crowdfund, where you should have received and saved a PDF file.
 
 Requirements
-Selenium Webdriver
-Firefox
-Python3
+- Selenium Webdriver
+- Firefox
+- Python3
 I used archlinux so can't help with windows users.
 
 No Rights Reserved.
