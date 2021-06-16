@@ -1,6 +1,8 @@
 # Tezos-BruteForce-Tester
 Selenium Python Script to Automate/Bruteforce - Test and Validate Potential Passwords/Emails to assist in finding a valid TZ1 address.
 
+Note this is for recovering coins during the initial crowdfund, where you should have received and saved a PDF file.
+
 Requirements
 Selenium Webdriver
 Firefox
